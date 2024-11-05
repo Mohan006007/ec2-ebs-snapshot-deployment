@@ -1,4 +1,4 @@
-##AWS EC2 & EBS Web Server Setup##
+AWS EC2 & EBS Web Server Setup
 This project demonstrates how to launch EC2 instances (Linux and Windows), configure web servers, create and attach an EBS volume, take a snapshot, and recreate the volume from the snapshot.
 
 Steps
